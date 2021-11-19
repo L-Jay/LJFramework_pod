@@ -2,7 +2,7 @@
 //  LJFramework.h
 //  LJFramework
 //
-//  Created by 崔志伟 on 2021/11/4.
+//  Created by 崔志伟 on 2021/11/19.
 //
 
 #import <Foundation/Foundation.h>
@@ -15,9 +15,8 @@ FOUNDATION_EXPORT const unsigned char LJFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <LJFramework/PublicHeader.h>
 
-#import "LJDefine.h"
-#import "LJUtils.h"
-#import "LJCategorys.h"
-#import "LJNetwork.h"
-#import "LJRouterManager.h"
-#import "LJWebViewController.h"
+#import <LJFramework/LJDefine.h>
+#import <LJFramework/LJCategorys.h>
+#import <LJFramework/LJUtils.h>
+#import <LJFramework/LJNetwork.h>
+#import <LJFramework/LJRouterManager.h>

@@ -26,15 +26,19 @@
 		</data>
 		<key>Headers/LJCategorys.h</key>
 		<data>
-		Mc5OzwZLeS+cvVGFDfA/bjdJJpE=
+		AJpEWNOiA3ESCFwEAh6iVcmxGQ4=
 		</data>
 		<key>Headers/LJDefine.h</key>
 		<data>
 		jfopbDIZYq+WXG4qST2TVsAfims=
 		</data>
+		<key>Headers/LJFramework-umbrella.h</key>
+		<data>
+		+HtdceCaw2PfDOHUFkbZM2PA6v0=
+		</data>
 		<key>Headers/LJFramework.h</key>
 		<data>
-		4xT4N2MhG786B+zdK4IgeyWa1zM=
+		VOdl3NwctKCkHMXCfMhyRzGC7Vk=
 		</data>
 		<key>Headers/LJGradientView.h</key>
 		<data>
@@ -126,21 +130,17 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9v7f20piulhlaUzcDLL4x/TAHew=
+		gtwc4KCel0GiOUMm9cZ0FqeVfOI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		TWaYx0swUWzbg4Zapq369eTqfzk=
+		Gp/JMqJahYahDSwlHzJe1McOn3Y=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/LJAutoTextView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zKqZ+E3X8ko+PKELXiiV1RRS8SM=
-			</data>
 			<key>hash2</key>
 			<data>
 			sNVTaQcA/H+ewTZquuWOxUx6M+KBZ2qyVsoMiexfZrg=
@@ -148,10 +148,6 @@
 		</dict>
 		<key>Headers/LJBaseFromSheetViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0/XdPqhAxU0SCDbBfVa9M0mWlv8=
-			</data>
 			<key>hash2</key>
 			<data>
 			UZhKXyU3k4QzKbAUEpLnznnNn34+D2fmXOWFDmaHeBE=
@@ -159,10 +155,6 @@
 		</dict>
 		<key>Headers/LJBaseTranslucenceViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RWEUbkcoDQrnfJF1ERswvOvSUfg=
-			</data>
 			<key>hash2</key>
 			<data>
 			TAMX7fR//5ZxkeILyAOsAbrhCli7dOy5/HeOOe2LrSw=
@@ -170,10 +162,6 @@
 		</dict>
 		<key>Headers/LJBaseXibView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PE8ULOlqsfvffBwGzoZCE71jaGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			DxvETD443Dwwq90y8Hr5c/GyiDma2cMvTBzZbEBIjxo=
@@ -181,10 +169,6 @@
 		</dict>
 		<key>Headers/LJBottomBar.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l1xHQgIMq3HI5Q0eapECtHjB1Ro=
-			</data>
 			<key>hash2</key>
 			<data>
 			B7G4FINgvRcQBBSsstVl5PPDvkZzbnLE9lZ3xRpb8Io=
@@ -192,43 +176,34 @@
 		</dict>
 		<key>Headers/LJCategorys.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mc5OzwZLeS+cvVGFDfA/bjdJJpE=
-			</data>
 			<key>hash2</key>
 			<data>
-			1H77IxaOo8GV/+8mv8wu4E4vSedB3ORghu29sTjYZ7M=
+			H7NGCXzcVV2Nb/qT8xwE7L9jwynfkNPvEPKg+sg+9+U=
 			</data>
 		</dict>
 		<key>Headers/LJDefine.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jfopbDIZYq+WXG4qST2TVsAfims=
-			</data>
 			<key>hash2</key>
 			<data>
 			1s2B6M/hh2jDK895siMl9ia8Go+RODG06bBTGWeB6W4=
 			</data>
 		</dict>
-		<key>Headers/LJFramework.h</key>
+		<key>Headers/LJFramework-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4xT4N2MhG786B+zdK4IgeyWa1zM=
-			</data>
 			<key>hash2</key>
 			<data>
-			OQn+GleO79+cqF67sQKFQmjKKy9q6SKK/mFQcvder7o=
+			+EmC2INHrbehe5mI89wJAqT/NUYBgcoLFY+bl22tKxU=
+			</data>
+		</dict>
+		<key>Headers/LJFramework.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AJ20jLfb0DUGrcv5JJB/SpGRMwSQuBrz3RtRy8xblAs=
 			</data>
 		</dict>
 		<key>Headers/LJGradientView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qacAnMR5jbNbLqx33qqQcqvZF3Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ty7xZdYSZbzklUQl/m8fhp55Qa64g4XfZ6oUZ1n9Gxo=
@@ -236,10 +211,6 @@
 		</dict>
 		<key>Headers/LJMediaManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ejcoHSK+gxioGiHgtXIXBiIw5u4=
-			</data>
 			<key>hash2</key>
 			<data>
 			QjdJEewazQ/0FMt1zyLqDP/sc9D7uAT/uD4KtjDRcHo=
@@ -247,10 +218,6 @@
 		</dict>
 		<key>Headers/LJMenuBar.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a0bP74eztbJ0nXFJrWLMhiWNT5A=
-			</data>
 			<key>hash2</key>
 			<data>
 			uVpPcdYgFcqzNKL1+zAoxQ6oS575apa9jegzKbMfqbI=
@@ -258,10 +225,6 @@
 		</dict>
 		<key>Headers/LJNetwork.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8oTJ34Ve5sMn6b2KU5FhI6NFsDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			+6wypvs9jpj7NjVAqoLUfFEbrfRIxV8L9c9wjkj4D7s=
@@ -269,10 +232,6 @@
 		</dict>
 		<key>Headers/LJOptionTableView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cipBYBl/8Y2IhgDliK5DFv9DY2I=
-			</data>
 			<key>hash2</key>
 			<data>
 			WAXFEytftRc/gqBy6N+ZJE/PPLGU6Vg6IfOzugOCLm0=
@@ -280,10 +239,6 @@
 		</dict>
 		<key>Headers/LJRouterManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V9jRnT8aYfofsSWf4KricehrRvI=
-			</data>
 			<key>hash2</key>
 			<data>
 			2dmgJkn0wtjSdnT4acO5MbT0BBM1gyZgNDUG5qBDZmI=
@@ -291,10 +246,6 @@
 		</dict>
 		<key>Headers/LJSendCodeButton.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7D89MUYOlD60XiHnStmPp531gJk=
-			</data>
 			<key>hash2</key>
 			<data>
 			evFs+PpkFjBKJCdIluhOYfEiVQaV9iWB2x7zNlohRSc=
@@ -302,10 +253,6 @@
 		</dict>
 		<key>Headers/LJStarBar.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T8wRKGTtI51SX/FDGRu8dp8Y83Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			g1Mv/c+3vk7BPaLcQOUvRQ+40ivdz+TPfsDD1PYtmDI=
@@ -313,10 +260,6 @@
 		</dict>
 		<key>Headers/LJUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KBHZ7K28jvHJVW550dHnrFi/jBs=
-			</data>
 			<key>hash2</key>
 			<data>
 			GPC+72FSBkowcRw0+V0y8ICVdOnDJBW04+8a858KtO8=
@@ -324,10 +267,6 @@
 		</dict>
 		<key>Headers/LJViewPropertyInXib.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t5DzIJJuvUJNmPHYNiAZQKF2ToI=
-			</data>
 			<key>hash2</key>
 			<data>
 			14o3eQcR5S96AAASw6MLUs1bdH7b131xC4L8b48dB5g=
@@ -335,10 +274,6 @@
 		</dict>
 		<key>Headers/LJWebViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O9MmXXjcDG7ANcudi9PueHs4jMI=
-			</data>
 			<key>hash2</key>
 			<data>
 			meBcMpYU8Su36K2aHJy+juiQqhC/Bfbpn4rvmrk540U=
@@ -346,10 +281,6 @@
 		</dict>
 		<key>Headers/LJXIBFromCenterViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			66U/0Zr3v3kOB6xvis8zsfTyZrU=
-			</data>
 			<key>hash2</key>
 			<data>
 			edTR/HDjTfRHgMCKFcbNfEAsJGbakekZqhf8DQ6lpXo=
@@ -357,10 +288,6 @@
 		</dict>
 		<key>Headers/LJXIBFromSheetViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LeJ5smv4g9o/ZtHVOl0ki2IkQBU=
-			</data>
 			<key>hash2</key>
 			<data>
 			/u/rPKFq5K9ajMIY3h9vwi/KEwkPgYMjhuzH5WlJq0g=
@@ -368,10 +295,6 @@
 		</dict>
 		<key>Headers/NSObject+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nd0bemd0luV9TGUzcqudUOYu9mE=
-			</data>
 			<key>hash2</key>
 			<data>
 			pex1P8L7DxIr4I/5skg10rn/uUpPFv9uejSAGi9xXWY=
@@ -379,10 +302,6 @@
 		</dict>
 		<key>Headers/NSString+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3yfwVGWxKEi27mh8BNLnJq49RtA=
-			</data>
 			<key>hash2</key>
 			<data>
 			xaWjkdAQHRyswPI9DOX/IsHr4eR7cFC/gXtAKEHnv64=
@@ -390,10 +309,6 @@
 		</dict>
 		<key>Headers/UIButton+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F7pKAMfDsNIbdIGc7voQbPeMUy8=
-			</data>
 			<key>hash2</key>
 			<data>
 			6t35kLlW7sbeQ+xY7WtwoA/g1LnqVgsexxR7sOkjHZc=
@@ -401,10 +316,6 @@
 		</dict>
 		<key>Headers/UICollectionView+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6BmlTDazTqlHh/ZDustDMRYHeYk=
-			</data>
 			<key>hash2</key>
 			<data>
 			hBzlTgpB+ztH+UXWhleoNYTHBJj9McPhqh/fG+ni/eI=
@@ -412,10 +323,6 @@
 		</dict>
 		<key>Headers/UIImage+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6M8zME52nQIIWPYfFjNXma7djaE=
-			</data>
 			<key>hash2</key>
 			<data>
 			rYYV6DQNO3ppdVfwIWVdCrW38w//BTr9+q5CqPh6kNA=
@@ -423,10 +330,6 @@
 		</dict>
 		<key>Headers/UITableView+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AifuXrVZgu2d4cKT/ohcPX/ciFE=
-			</data>
 			<key>hash2</key>
 			<data>
 			WjclBJKGVZFK9w3nq2Qveq+oOLk/Adx1f5cmZ2zb7Lk=
@@ -434,10 +337,6 @@
 		</dict>
 		<key>Headers/UITextView+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3isTijt4HwDdOIziNzM///BZY7U=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Q5DQpI/geAl1DgrI8skEkxZ6xr5Y4Tewq8G3rIAouI=
@@ -445,10 +344,6 @@
 		</dict>
 		<key>Headers/UIView+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Pu9HMU44r6zopISqn7ZQJ9HeJXw=
-			</data>
 			<key>hash2</key>
 			<data>
 			JWDuHwWSR3z9qIUe+GwUT4P7KwnIw8+HlviVtiEMtzw=
@@ -456,10 +351,6 @@
 		</dict>
 		<key>Headers/UIViewController+LJCategory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rDQs8YE2Hp5MN5lKG32H5CfSgDQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			XPGALheh2fTkMJphkJdzfQDzQlntj+WMrpa7US2ueYs=
@@ -467,13 +358,9 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TWaYx0swUWzbg4Zapq369eTqfzk=
-			</data>
 			<key>hash2</key>
 			<data>
-			RqPW8IO85zwTbvNuuRWLw33V0+q9YNcnjrxq4pim2ns=
+			NBXBhWpOuZZVzf+IRYYCOiIavks3UUI2vv2VBwZzrBc=
 			</data>
 		</dict>
 	</dict>

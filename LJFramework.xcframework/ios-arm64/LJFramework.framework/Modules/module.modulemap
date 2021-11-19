@@ -1,5 +1,5 @@
 framework module LJFramework {
-  umbrella header "LJFramework.h"
+  umbrella header "LJFramework-umbrella.h"
 
   export *
   module * { export * }

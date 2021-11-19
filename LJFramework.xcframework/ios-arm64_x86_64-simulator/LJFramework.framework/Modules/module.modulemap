@@ -1,0 +1,6 @@
+framework module LJFramework {
+  umbrella header "LJFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
